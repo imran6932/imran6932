@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/imran6932" target="blank"><img src="https://img.shields.io/twitter/follow/imran6932?logo=twitter&style=for-the-badge" alt="imran6932" /></a> </p>
 
-- 🌱 I’m currently learning **Django REST Framework, React**
+- 🌱 I’m currently learning **Angular**
 
 - 📫 How to reach me **imransxcr53@gmail.com**
 
