@@ -6,7 +6,7 @@
 
 
 
-- 🌱 I’m currently learning **Angular**
+- 🌱 I’m currently learning **ReactJS**
 
 - 📫 How to reach me **imransxcr53@gmail.com**
 
